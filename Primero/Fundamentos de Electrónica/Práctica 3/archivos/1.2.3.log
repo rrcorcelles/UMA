@@ -1,0 +1,21 @@
+Circuit: * C:\Users\rodri\OneDrive\Escritorio\practica3-electronica\1.2.3.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Dec 02 22:40:11 2021
+Total elapsed time: 0.078 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2541
+traniter = 2536
+tranpoints = 1196
+accept = 1158
+rejected = 38
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1: 456 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 667 bytes object code size  0.2/0.2/[0.2]
+
