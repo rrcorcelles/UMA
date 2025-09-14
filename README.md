@@ -1,7 +1,3 @@
-Ya entiendo, quieres el contenido del `README.md` directamente para que puedas copiarlo y pegarlo en tu repositorio. Aquí tienes el texto completo y actualizado:
-
------
-
 # 📚 Apuntes de Ingeniería de Software
 
 Este repositorio contiene mis apuntes y recursos de la carrera de Ingeniería de Software. El objetivo es tener un lugar centralizado para consultar y compartir conocimientos sobre las diferentes asignaturas.
